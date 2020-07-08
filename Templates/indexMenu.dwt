@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Pueblo Magico Loreto</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#cuerpo {
+	background-color: #39F;
+	height: 900px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#cuerpo #Cabecera {
+	background-color: #FC0;
+	height: 160px;
+	width: 1000px;
+}
+#cuerpo #Cabecera #Logo {
+	background-color: #F60;
+	height: 160px;
+	width: 160px;
+	float: left;
+}
+#cuerpo #Cabecera #Imagen {
+	float: right;
+	height: 160px;
+	width: 300px;
+}
+#cuerpo #Cabecera #Texto_C {
+	background-color: #CCC;
+	float: left;
+	height: 160px;
+	width: 540px;
+}
+#cuerpo #Encabesado {
+	background-color: #66F;
+	height: 30px;
+	width: 1000px;
+}
+#cuerpo #Contenido {
+	background-color: #F66;
+	height: 690px;
+	width: 1000px;
+}
+#cuerpo #Base {
+	background-color: #93F;
+	height: 20px;
+	width: 1000px;
+}
+#cuerpo #Contenido #Faldon {
+	background-color: #FF3;
+	float: left;
+	height: 190px;
+	width: 1000px;
+}
+#cuerpo #Contenido #Menu {
+	background-color: #FF9;
+	float: left;
+	height: 500px;
+	width: 180px;
+}
+#cuerpo #Contenido #Centro {
+	background-color: #F3F;
+	float: left;
+	height: 500px;
+	width: 660px;
+}
+#cuerpo #Contenido #Barra lateral {
+	background-color: #0C9;
+	float: right;
+	height: 500px;
+	width: 160px;
+}
+.Azulleft {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #33F;
+	text-align: left;
+}
+.Rojoleft {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #F00;
+	text-align: left;
+}
+#cuerpo #Contenido #Menu table {
+	text-align: left;
+	margin-top: 100px;
+	margin-left: 10px;
+}
+a:link {
+	text-decoration: none;
+	color: #F30;
+}
+a:visited {
+	text-decoration: none;
+	color: #F00;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #F30;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body bgcolor="#66CC00" topmargin="0">
+<div id="cuerpo">
+  <div id="Cabecera">
+    <div id="Logo">
+      <p>Colocar aquí el contenido para  id "Logo"    </p>
+    </div><!--Fin Logo -->
+    <div id="Texto_C">Colocar aquí el contenido para  id "Texto_C"</div><!--Fin Texto Cabecera -->
+    <div id="Imagen">Colocar aquí el contenido para  id "Imagen"</div><!--Fin Imagen -->
+  </div><!--Fin Cabecera -->
+  <div id="Encabesado"></div><!--Fin Encabesado -->
+  <div id="Contenido">
+    <div id="Menu">
+      <table width="160" border="1">
+        <tr>
+          <td>MENU</td>
+        </tr>
+        <tr>
+          <td><a href="#">Dream</a></td>
+        </tr>
+        <tr>
+          <td><a href="#">pre</a></td>
+        </tr>
+        <tr>
+          <td><a href="#">Word</a></td>
+        </tr>
+        <tr>
+          <td><a href="#">Noticias</a></td>
+        </tr>
+        <tr>
+          <td><a href="#">enlaces</a></td>
+        </tr>
+        <tr>
+          <td><a href="#">Contacto</a></td>
+        </tr>
+      </table>
+    </div><!--Fin Menu -->
+    <div id="Barra lateral"></div><!--Fin Barra Lateral -->
+    <div class="Azulleft" id="Centro"> Colocar aquí el contenido para  id "Centro"</div><!--Fin Centro -->
+    <div id="Faldon">Colocar aquí el contenido para  id "Faldon"</div>
+  </div><!--Fin Contenido -->
+  <div id="Base">Colocar aquí el contenido para  id "Base"</div><!--Fin Base -->
+</div><!--FIN Cuerpo -->
+</body>
+</html>
